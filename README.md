@@ -51,6 +51,7 @@
 
 - **输入**：原始HTTP请求、注入后的HTTP请求以及响应内容
 - **输出**：关于漏洞存在性的判断结论，包括漏洞类型、是否易受攻击、理由和置信度水平的JSON格式
+![image](https://github.com/user-attachments/assets/8057ca7d-fc16-40a1-8f94-acb7cd7b2a27)
 
 ## 总结
 
